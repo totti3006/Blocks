@@ -1,0 +1,35 @@
+{
+  "preload": {
+    "files": [
+      {
+        "type": "spritesheet",
+        "key": "block",
+        "url": "./assets/sprites/block.png",
+        "frameConfig": {
+          "frameWidth": 16,
+          "frameHeight": 16
+        }
+      },
+      {
+        "type": "image",
+        "key": "cursor",
+        "url": "./assets/images/cursor.png"
+      },
+      {
+        "type": "image",
+        "key": "blue",
+        "url": "./assets/images/blue.png"
+      },
+      {
+        "type": "image",
+        "key": "red",
+        "url": "./assets/images/red.png"
+      },
+      {
+        "type": "image",
+        "key": "green",
+        "url": "./assets/images/green.png"
+      }
+    ]
+  }
+}
